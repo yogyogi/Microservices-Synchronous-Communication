@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF94D3F8-A879-2EA9-CF23-7736887F0794}|ProcessCenter\\ProcessCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\processcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF94D3F8-A879-2EA9-CF23-7736887F0794}|ProcessCenter\\ProcessCenter.csproj|solutionrelative:processcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\pcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|solutionrelative:pcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\pcui\\infrastructure\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|solutionrelative:pcui\\infrastructure\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\pcui\\components\\processes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|solutionrelative:pcui\\components\\processes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\pcui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|solutionrelative:pcui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\synchronous communication microservices\\synchronous-communication-microservices\\pcui\\processclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5D9CF-77B1-45E4-9BD7-51AFEBD9C103}|PCUI\\PCUI.csproj|solutionrelative:pcui\\processclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "PCUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "PCUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T13:41:57.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Processes.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Components\\Processes.razor",
+              "RelativeDocumentMoniker": "PCUI\\Components\\Processes.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Components\\Processes.razor",
+              "RelativeToolTip": "PCUI\\Components\\Processes.razor",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T13:41:45.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Infrastructure\\Dtos.cs",
+              "RelativeDocumentMoniker": "PCUI\\Infrastructure\\Dtos.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Infrastructure\\Dtos.cs",
+              "RelativeToolTip": "PCUI\\Infrastructure\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:41:27.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-06T11:05:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-06T10:58:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessClient.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\ProcessClient.cs",
+              "RelativeDocumentMoniker": "PCUI\\ProcessClient.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\ProcessClient.cs",
+              "RelativeToolTip": "PCUI\\ProcessClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:41:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Program.cs",
+              "RelativeDocumentMoniker": "PCUI\\Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\PCUI\\Program.cs",
+              "RelativeToolTip": "PCUI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:47:46.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\ProcessCenter\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessCenter\\Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Synchronous Communication Microservices\\Synchronous-Communication-Microservices\\ProcessCenter\\Program.cs",
+              "RelativeToolTip": "ProcessCenter\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:16:37.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

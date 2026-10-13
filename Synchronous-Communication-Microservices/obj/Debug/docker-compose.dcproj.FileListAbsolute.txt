@@ -1,0 +1,62 @@
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ProcessCenter.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ProcessCenter.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ProcessCenter.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ProcessCenter.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ProcessCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Polly.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Microsoft.Extensions.Http.Polly.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Polly.Extensions.Http.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\Microsoft.OpenApi.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\bin\Debug\ProcessCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ProcessCenter.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ProcessCenter.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ProcessCenter.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ProcessCenter.exe
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ProcessCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Polly.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Microsoft.Extensions.Http.Polly.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Polly.Extensions.Http.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\Microsoft.OpenApi.dll
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\bin\Debug\ProcessCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Synchronous Communication Microservices\Synchronous-Communication-Microservices\obj\Debug\docker-c.35A3FFBA.Up2Date

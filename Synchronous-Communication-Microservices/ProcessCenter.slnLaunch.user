@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ProcessCenter\\ProcessCenter.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PCUI\\PCUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
